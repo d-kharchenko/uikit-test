@@ -1,0 +1,19 @@
+.header-bg{
+	width: 100%;
+}
+#tel-list{
+	margin-right: 10px;
+}
+#tel-number{
+	margin: 0;
+}
+.call-back-btn{
+	margin-right: 20px;
+}
+.uk-icon [STROKE*='#']:not(.uk-preserve), .uk-icon [stroke*='#']:not(.uk-preserve){
+	color: #cccccc;
+}
+.logo-clients{
+	height: 100px;
+}
+
